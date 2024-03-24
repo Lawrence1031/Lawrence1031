@@ -11,17 +11,21 @@
 ## 팀 프로젝트
 
 ### 시골 용사
-https://yongtaej.itch.io/countryhero
 
-https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f
+[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/3dce6db9-1ad0-4f6e-a07d-0ebe83ddde68)](https://yongtaej.itch.io/countryhero)
 
-포트폴리오
+
+[브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f)
+
+[깃허브](https://github.com/Lawrence1031/Metroidvania_Final)
+
+[포트폴리오]()
 
 ### 프로젝트 PS
 
-깃허브 링크
+[깃허브]()
 
-포트폴리오
+[포트폴리오]()
 
 ## TIL
 
