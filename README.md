@@ -6,12 +6,12 @@
 - 저는 
 
 ## 기술스택
-![Unity-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/88870f2c-bf50-419a-a9eb-18351b35ae0d)
-![CS](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/700677ff-7aa5-4602-b0ab-619cc75f784e)
-![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe)
-![Python-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/a5bd8e49-2d92-4f17-8596-bbb30cd308de)
-![VSCode-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/2cbadd35-6b0b-4583-adeb-8190a3e565f3)
-![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47)
+![Unity-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/88870f2c-bf50-419a-a9eb-18351b35ae0d "Unity")
+![CS](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/700677ff-7aa5-4602-b0ab-619cc75f784e "C#")
+![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")
+![Python-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/a5bd8e49-2d92-4f17-8596-bbb30cd308de "Python")
+![VSCode-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/2cbadd35-6b0b-4583-adeb-8190a3e565f3 "VSCode")
+![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47 "Discord")
 
 ## 팀 프로젝트
 
