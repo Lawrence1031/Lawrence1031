@@ -27,14 +27,15 @@
 
 [![Itch.io](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/27c456fa-5f33-4239-8db4-d64c3072c837)](https://yongtaej.itch.io/countryhero "Itch.io") [![stoveIndie](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/821523e5-0a8e-41bd-a1b5-a4e3819dbb28)](https://store.onstove.com/ko/games/3080 "StoveIndie")
 
-[브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f) [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final)
+[![브로셔](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/8a5986fe-8157-4c95-b9fd-9b2431e5c68b)](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f "브로셔")　
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final "GitHub")　
 [포트폴리오]()
 
 <br/>
 
 ### 프로젝트 PS
 
-[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS)
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS "GitHub")　
 [포트폴리오]()
 
 <br/>
