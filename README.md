@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?height=300&type=Waving&color=0:000000,100:8C8C8C&text=Welcome&fontColor=FFFFFF&fontAlign=78&fontAlignY=40&desc=Seongmin%20Jo's%20Github%20Profile&descSize=15&descAlign=84&descAlignY=52)
 
 ## SNS
-
 [![linkedin-color](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/6310f7bd-9439-4e5c-9ce5-01bf86060c73 "LinkedIn")](https://www.linkedin.com/in/%EC%84%B1%EB%AF%BC-%EC%A1%B0-381986301/)
-Mail
+[![x-color](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/d881c2a9-d3cc-47d4-aa43-373bde000858 "X(Twitter)")](https://twitter.com/Lawrence1031h)
 [![Tistory](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/54f12567-8c91-47a9-b3fb-328833cb66a7 "Tistory")](https://lawrence1031.tistory.com)
 [![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47 "Discord")](https://discord.gg/97TjA44jNM)
 
