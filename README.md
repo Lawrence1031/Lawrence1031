@@ -23,14 +23,11 @@
 
 ### Country Hero(시골 용사)
 
-[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/36207a39-0ab0-4f75-bfb0-35b646acb68e)](https://yongtaej.itch.io/countryhero "Itch.io Link")
+![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/36207a39-0ab0-4f75-bfb0-35b646acb68e)
 
-[브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f)
+[![Itch.io](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/27c456fa-5f33-4239-8db4-d64c3072c837)](https://yongtaej.itch.io/countryhero "Itch.io") [![stoveIndie](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/821523e5-0a8e-41bd-a1b5-a4e3819dbb28)](https://store.onstove.com/ko/games/3080 "StoveIndie")
 
-[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final)
-
-[STOVE](https://store.onstove.com/ko/games/3080)
-
+[브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f) [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final)
 [포트폴리오]()
 
 <br/>
@@ -38,7 +35,6 @@
 ### 프로젝트 PS
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS)
-
 [포트폴리오]()
 
 <br/>
