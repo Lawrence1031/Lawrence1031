@@ -19,11 +19,15 @@ Discord
 
 ### Country Hero(시골 용사)
 
-[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/3dce6db9-1ad0-4f6e-a07d-0ebe83ddde68)](https://yongtaej.itch.io/countryhero)
+[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/36207a39-0ab0-4f75-bfb0-35b646acb68e)](https://yongtaej.itch.io/countryhero)
 
 [브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f)
 
-[깃허브](https://github.com/Lawrence1031/Metroidvania_Final)
+[GitHub](https://github.com/Lawrence1031/Metroidvania_Final)
+
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final)
+
+[STOVE](https://store.onstove.com/ko/games/3080)
 
 [포트폴리오]()
 
