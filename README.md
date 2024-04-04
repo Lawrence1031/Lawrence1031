@@ -44,8 +44,7 @@
 <br/>
 
 ## Algorithm
-[![image](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9)](https://career.programmers.co.kr/pr/lawrence1031h_2119)
-[![Solved.ac
+[![image](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9)](https://career.programmers.co.kr/pr/lawrence1031h_2119 "Programmers")　　　　　[![Solved.ac
 lawrence1031h](http://mazassumnida.wtf/api/generate_badge?boj=lawrence1031h)](https://solved.ac/lawrence1031h "BaekJoon")
 
 ## GitHub
