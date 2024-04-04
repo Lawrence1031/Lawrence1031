@@ -6,6 +6,7 @@
 [![Tistory](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/54f12567-8c91-47a9-b3fb-328833cb66a7 "Tistory")](https://lawrence1031.tistory.com)
 [![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47 "Discord")](https://discord.gg/97TjA44jNM)
 
+<br/>
 
 ## Tech Stack
 
@@ -15,6 +16,8 @@
 ![Python-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/a5bd8e49-2d92-4f17-8596-bbb30cd308de "Python")
 ![VSCode-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/2cbadd35-6b0b-4583-adeb-8190a3e565f3 "VSCode")
 ![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47 "Discord")
+
+<br/>
 
 ## Team Project
 
@@ -30,20 +33,18 @@
 
 [포트폴리오]()
 
+<br/>
+
 ### 프로젝트 PS
 
-[깃허브]()
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS)
 
 [포트폴리오]()
 
-## TIL
+<br/>
 
-https://lawrence1031.tistory.com
-
-## 알고리즘
-
-[Programmers](https://career.programmers.co.kr/pr/lawrence1031h_2119)
-
+## Algorithm
+[![image](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9)](https://career.programmers.co.kr/pr/lawrence1031h_2119)
 [![Solved.ac
 lawrence1031h](http://mazassumnida.wtf/api/generate_badge?boj=lawrence1031h)](https://solved.ac/lawrence1031h "BaekJoon")
 
