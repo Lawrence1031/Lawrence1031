@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?height=300&type=Waving&color=0:000000,100:8C8C8C&text=Welcome&fontColor=FFFFFF&fontAlign=78&fontAlignY=40&desc=Seongmin%20Jo's%20Github%20Profile&descSize=15&descAlign=84&descAlignY=52)
 
 ## SNS
-Blog
+LinkedIn
+
 Mail
-Discord
+
+Blog
+
+[![Discord](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/497bd460-8948-4d20-8fcc-89ddd636dd47 "Discord")](https://discord.gg/97TjA44jNM)
 
 
 ## Tech Stack
@@ -19,11 +23,9 @@ Discord
 
 ### Country Hero(시골 용사)
 
-[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/36207a39-0ab0-4f75-bfb0-35b646acb68e)](https://yongtaej.itch.io/countryhero)
+[![countryHero](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/36207a39-0ab0-4f75-bfb0-35b646acb68e)](https://yongtaej.itch.io/countryhero "Itch.io Link")
 
 [브로셔](https://far-diagnostic-40e.notion.site/COUNTRY-HERO-eceec0f4ae5041a28fc7a79ad1f8d83f)
-
-[GitHub](https://github.com/Lawrence1031/Metroidvania_Final)
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/Metroidvania_Final)
 
