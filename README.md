@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=300&type=Waving&color=0:000000,100:8C8C8C&text=Welcome&desc=Seongmin%20Jo's%20Github%20Profile&descSize=15&descAlign=56&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?height=300&type=Waving&color=0:000000,100:8C8C8C&text=Welcome&fontColor=FFFFFF&fontAlign=78&fontAlignY=40&desc=Seongmin%20Jo's%20Github%20Profile&descSize=15&descAlign=84&descAlignY=52)
 
 ## SNS
 Blog
