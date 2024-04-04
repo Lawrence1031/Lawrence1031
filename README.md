@@ -35,6 +35,8 @@
 
 https://lawrence1031.tistory.com
 
-## 프로그래머스
+## 알고리즘
 
-https://career.programmers.co.kr/pr/lawrence1031h_2119
+[Programmers](https://career.programmers.co.kr/pr/lawrence1031h_2119)
+
+[Baekjoon](https://solved.ac/profile/lawrence1031h)
