@@ -49,18 +49,22 @@
 
 ## Algorithm
 
-<p align="left">
-  <a href="https://career.programmers.co.kr/pr/lawrence1031h_2119">
-    <img src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9" width="330" />
-  </a>
-  <a href="https://solved.ac/lawrence1031h">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=lawrence1031h" width="330" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://career.programmers.co.kr/pr/lawrence1031h_2119"><img src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9" width="330" /></a></td>
+    <td><a href="https://solved.ac/lawrence1031h"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lawrence1031h" width="330" /></a></td>
+  </tr>
+</table>
 
 ## GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence1031&langs_count=10&layout=compact&theme=shadow_blue&hide_border=true" width="320" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lawrence1031&show_icons=true&theme=shadow_blue&hide_border=true" width="440" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence1031&langs_count=10&layout=compact&theme=shadow_blue&hide_border=true" width="330" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lawrence1031&show_icons=true&theme=shadow_blue&hide_border=true" width="440" />
+    </td>
+  </tr>
+</table>
