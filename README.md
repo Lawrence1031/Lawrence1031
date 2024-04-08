@@ -61,6 +61,6 @@
 ## GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence1031&langs_count=10&layout=compact&theme=shadow_blue&hide_border=true" width="320" style="border: 2px solid #000000;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Lawrence1031&show_icons=true&theme=shadow_blue&hide_border=true" width="440" style="border: 2px solid #000000;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawrence1031&langs_count=10&layout=compact&theme=shadow_blue&hide_border=true" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lawrence1031&show_icons=true&theme=shadow_blue&hide_border=true" width="440" />
 </p>
