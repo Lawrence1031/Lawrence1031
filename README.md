@@ -19,6 +19,10 @@
 
 <br/>
 
+## Portfolio
+
+[포트폴리오](링크)
+
 ## Team Project
 
 ### Country Hero(시골 용사)
@@ -43,7 +47,6 @@
 ### 프로젝트 PS
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS "GitHub")　
-[포트폴리오]()
 
 <br/>
 
