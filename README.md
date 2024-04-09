@@ -39,6 +39,7 @@
 
 <br/>
 
+
 ### 프로젝트 PS
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS "GitHub")　
@@ -46,7 +47,9 @@
 
 <br/>
 
+
 ### Project NiO
+<img width="720" alt="002" src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/bcae2859-6f15-4ddf-957c-075dfdd0416a">
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectNiO "GitHub")　
 
