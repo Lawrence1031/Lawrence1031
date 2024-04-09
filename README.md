@@ -39,16 +39,16 @@
 
 <br/>
 
-### Project NiO
-
-[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectNiO "GitHub")　
-
-<br/>
-
 ### 프로젝트 PS
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS "GitHub")　
 [![포트폴리오](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/07136cf8-45e6-4529-8d97-fbe151e5a8d7)]("포트폴리오")
+
+<br/>
+
+### Project NiO
+
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectNiO "GitHub")　
 
 <br/>
 
