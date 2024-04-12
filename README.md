@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td><a href="https://career.programmers.co.kr/pr/lawrence1031h_2119"><img src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/df2a87b9-45b1-4ade-9a27-d8e5527aaec9" width="330" /></a></td>
-    <td><a href="https://solved.ac/lawrence1031h"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lawrence1031h" width="330" /></a></td>
+    <td><a href="https://solved.ac/lawrence1031h"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lawrence1031h" width="330" /></a></td>
   </tr>
 </table>
 
