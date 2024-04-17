@@ -40,7 +40,7 @@
 <br/>
 
 
-### 프로젝트 PS
+### Project PS
 <img width="720" alt="002" src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/6ac65ac5-99c5-45f9-87db-3b12db4f7156">
 
 [![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS_Jo "GitHub")　
