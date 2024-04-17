@@ -43,7 +43,7 @@
 ### 프로젝트 PS
 <img width="720" alt="002" src="https://github.com/Lawrence1031/Lawrence1031/assets/144416099/6ac65ac5-99c5-45f9-87db-3b12db4f7156">
 
-[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS "GitHub")　
+[![Github-Light](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/abe300d0-cf19-48c3-ae43-2b297c58e5fe "Github")](https://github.com/Lawrence1031/ProjectPS_Jo "GitHub")　
 [![포트폴리오](https://github.com/Lawrence1031/Lawrence1031/assets/144416099/07136cf8-45e6-4529-8d97-fbe151e5a8d7 "포트폴리오")](https://scythe-sesame-8dc.notion.site/Project-PS-52afc65ec8ff42dda27ec4dff6c28abe?pvs=4)
 
 <br/>
